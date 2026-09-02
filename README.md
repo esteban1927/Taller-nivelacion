@@ -12,5 +12,5 @@ Este repositorio contiene la solución a los ejercicios prácticos del taller de
 
 1. Clona el repositorio:
   ```bash
-   git clone [https://github.com/esteban1927/Taller-nivelacion.git](https://github.com/esteban1927/Taller-nivelacion.git)
+   git clone https://github.com/esteban1927/Taller-nivelacion.git
    ```
