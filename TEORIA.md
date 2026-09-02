@@ -2,7 +2,7 @@
 
 ## Introducción
 
-* **¿Qué es Markdown?** Es un lenguaje súper sencillo para darle formato a un texto (como poner negritas, títulos o listas) y que se convierte fácil a HTML[cite: 1]. Usa caracteres normales como `#` o `*` y es el estándar para escribir documentos en GitHub[cite: 1].
+* **¿Qué es Markdown?** Es un lenguaje súper sencillo para darle formato a un texto (como poner negritas, títulos o listas) y que se convierte fácil a HTML. Usa caracteres normales como `#` o `*` y es el estándar para escribir documentos en GitHub.
 
 ## Preguntas sobre Git
 
